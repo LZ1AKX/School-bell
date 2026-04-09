@@ -1,0 +1,17 @@
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\bin\Debug\net10.0-windows\School_Bell.exe
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\bin\Debug\net10.0-windows\School_Bell.deps.json
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\bin\Debug\net10.0-windows\School_Bell.runtimeconfig.json
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\bin\Debug\net10.0-windows\School_Bell.dll
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\bin\Debug\net10.0-windows\School_Bell.pdb
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.Form1.resources
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.vbproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.AssemblyInfoInputs.cache
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.AssemblyInfo.vb
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.vbproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.dll
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\refint\School_Bell.dll
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.pdb
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.genruntimeconfig.cache
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\ref\School_Bell.dll
+C:\Users\Andrey\source\repos\School_Bell\School_Bell\obj\Debug\net10.0-windows\School_Bell.Resources.resources
